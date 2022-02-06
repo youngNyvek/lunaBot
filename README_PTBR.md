@@ -60,3 +60,7 @@ Para a execução do bot
 ```
 python index.py
 ```
+
+# 🖼 Ajustes
+
+Acesse o arquivo targets e substitua as imagens correspondentes a sua tela e a linguagem do seu jogo.
