@@ -7,20 +7,7 @@
   </a>
 </h1>
 
-⚠️ Aviso - Não me responsabilizo por qualquer penalidae que possa ser sofrida decorrente do uso deste bot.
-
 ⚠️ Warning - I am not responsible for any penalty that may be incurred as a result of using this bot.
-
-
-
-## 📋 <a id="about"></a>Sobre
-
-Esse projeto foi desenvolvido em Python.
-
-é GRATUITO e foi criado para uso próprio considerando o meu próprio contexto no jogo 😁.
-
-Sintam-se a vontade para darem feedbacks e dicas do que posso fazer para evoluir mais o código do bot.
-
 
 ## 📋 About
 
@@ -28,17 +15,11 @@ Sintam-se a vontade para darem feedbacks e dicas do que posso fazer para evoluir
 
 Feel free to give feedback and tips on what I can do to further evolve the bot code.
 
-## 🧧 Doações
-PIX: 43e2dd3b-0bb8-4ace-8df0-d2ac8dae5520
+## 🧧 Donates
 
-LUS: 0x1FDAEDA794A1024b3Ec738f9DC5a6FacD86BDA51
+<img src="https://raw.githubusercontent.com/youngNyvek/lunaBot/master/readme-images/logo-pix-icone-1024.png" width="20" height="20"> PIX: 43e2dd3b-0bb8-4ace-8df0-d2ac8dae5520
 
-
-## ⚙ Como funciona
-
-A partir da tela de seleção de guerreiras, o bot identifica se existem slots a serem preenchidos e identifica quais guerreiras podem ser postas em batalha, seguindo assim até o retorno a tela de seleção, retomando tudo outra vez. 
-
-NADA é alterado no código do jogo, pois o bot utiliza como base a própria tela do usuário. 
+<img src="https://raw.githubusercontent.com/youngNyvek/lunaBot/master/readme-images/lunalogo.png" width="20" height="20"> LUS: 0x1FDAEDA794A1024b3Ec738f9DC5a6FacD86BDA51
 
 ## ⚙ How it works
 
@@ -46,32 +27,34 @@ From the selection screen of warriors, the bot identifies if there are slots to 
 
 NOTHING is changed in the game code, as the bot uses the user's own screen as a base.
 
-# 💾 Instalação
-Para que o bot funcione, será necessário a instalação do **Python**
+# 💾 Installation
 
-## Preparando o ambiente
+For the bot works, you will need to install **Python**
+
+## Config environment
+
 🐍 https://www.python.org/downloads/
 
-ou diretamente pela loja do windows
+or directly from the windows store
 
 🐍 https://www.microsoft.com/store/productId/9NJ46SX7X90P
 
-**Mantenha marcado a opção para adicionar o python ao PATH**
+**Keep checked the option to add python to PATH**
 
-## Baixando o bot
+## Downloading bot
 
-Baixe o bot como zip e extraia.
+Download the bot as zip and extract.
 
-Uma vez extraído, acesse o Windows PowerShell referenciando o diretório do bot e execute os seguintes códigos.
+Once extracted, access Windows PowerShell referencing the bot directory and run the following codes.
 
-Para a instalação das depêndencias
+To install dependencies
+
 ```
 pip install -r requirements.txt
 ```
 
-Para a execução do bot
+To execute bot
+
 ```
 python index.py
 ```
-
-
