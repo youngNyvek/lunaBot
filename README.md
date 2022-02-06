@@ -58,3 +58,7 @@ To execute bot
 ```
 python index.py
 ```
+
+# 🖼 Settings
+
+Access the targets and substitutes file as images corresponding to your screen and your language.
