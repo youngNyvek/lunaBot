@@ -56,7 +56,7 @@ pip install -r requirements.txt
 To execute bot
 
 ```
-python index.py
+python LunaBot.py
 ```
 
 # 🖼 Settings
