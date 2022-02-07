@@ -33,6 +33,8 @@ For the bot works, you will need to install **Python**
 
 ## Config environment
 
+### Python
+
 🐍 https://www.python.org/downloads/
 
 or directly from the windows store
@@ -41,11 +43,16 @@ or directly from the windows store
 
 **Keep checked the option to add python to PATH**
 
+### Windows Terminal
+
+💻 https://www.microsoft.com/store/productId/9N0DX20HK701
+
+
 ## Downloading bot
 
 Download the bot as zip and extract.
 
-Once extracted, access Windows PowerShell referencing the bot directory and run the following codes.
+Once extracted, access **Windows Terminal** referencing the bot directory and run the following codes.
 
 To install dependencies
 
