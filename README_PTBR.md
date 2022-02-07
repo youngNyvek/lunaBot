@@ -52,7 +52,7 @@ ou diretamente pela loja do windows
 
 Baixe o bot como zip e extraia.
 
-Uma vez extraído, acesse o Windows PowerShell referenciando o diretório do bot e execute os seguintes códigos.
+Uma vez extraído, acesse o **Windows Terminal** referenciando o diretório do bot e execute os seguintes códigos.
 
 Para a instalação das depêndencias
 
