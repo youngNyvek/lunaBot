@@ -35,6 +35,7 @@ Para que o bot funcione, será necessário a instalação do **Python**
 
 ## Preparando o ambiente
 
+### Python
 🐍 https://www.python.org/downloads/
 
 ou diretamente pela loja do windows
@@ -42,6 +43,10 @@ ou diretamente pela loja do windows
 🐍 https://www.microsoft.com/store/productId/9NJ46SX7X90P
 
 **Mantenha marcado a opção para adicionar o python ao PATH**
+
+### Windows Terminal
+
+💻 https://www.microsoft.com/store/productId/9N0DX20HK701
 
 ## Baixando o bot
 
