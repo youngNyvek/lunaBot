@@ -71,18 +71,16 @@ def huntAreStarted():
         findingOpenChest = pyautogui.locateOnScreen('./targets/openChest.png', confidence=0.9)
         if findingOpenChest :
             moveMouseTo(findingOpenChest)
-            findingContinue = pyautogui.locateOnScreen('./targets/tapToContinue.png', confidence=0.9)
-            if findingContinue :
-                moveMouseTo(findingContinue)
-                return True
+            time.sleep(5)
+            pyautogui.click()
+            return True
 
     if defeat :
         defeatsCount += 1
         consoleLog('Defeat!')
-        findingContinue = pyautogui.locateOnScreen('./targets/tapToContinue2.png', confidence=0.9)
-        if findingContinue :
-            moveMouseTo(findingContinue)
-            return True
+        time.sleep(5)
+        pyautogui.click()
+        return True
 
 
 def main():
