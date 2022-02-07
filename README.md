@@ -19,7 +19,7 @@ Feel free to give feedback and tips on what I can do to further evolve the bot c
 
 <img src="https://raw.githubusercontent.com/youngNyvek/lunaBot/master/readme-images/logo-pix-icone-1024.png" width="20" height="20"> PIX: 43e2dd3b-0bb8-4ace-8df0-d2ac8dae5520
 
-<img src="https://raw.githubusercontent.com/youngNyvek/lunaBot/master/readme-images/lunalogo.png" width="20" height="20"> LUS: 0x1FDAEDA794A1024b3Ec738f9DC5a6FacD86BDA51
+<img src="https://raw.githubusercontent.com/youngNyvek/lunaBot/master/readme-images/lunalogo.png" width="20" height="20"> LUS: 0x1128731221df2C7BF61736068004550C87B2880A
 
 ## ⚙ How it works
 
@@ -33,6 +33,8 @@ For the bot works, you will need to install **Python**
 
 ## Config environment
 
+### Python
+
 🐍 https://www.python.org/downloads/
 
 or directly from the windows store
@@ -41,11 +43,16 @@ or directly from the windows store
 
 **Keep checked the option to add python to PATH**
 
+### Windows Terminal
+
+💻 https://www.microsoft.com/store/productId/9N0DX20HK701
+
+
 ## Downloading bot
 
 Download the bot as zip and extract.
 
-Once extracted, access Windows PowerShell referencing the bot directory and run the following codes.
+Once extracted, access **Windows Terminal** referencing the bot directory and run the following codes.
 
 To install dependencies
 
@@ -56,7 +63,7 @@ pip install -r requirements.txt
 To execute bot
 
 ```
-python index.py
+python LunaBot.py
 ```
 
 # 🖼 Settings
